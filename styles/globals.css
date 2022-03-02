@@ -1,0 +1,22 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  /* background-color: #23344D; */
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;700&family=Roboto:wght@300&display=swap');
+
+.ReactModal__Overlay,.ReactModalPortal .ReactModal__Overlay--after-open{
+  background-color: rgba(47,58,73, 0.4) !important;
+}
