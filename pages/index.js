@@ -132,7 +132,7 @@ const PersonCard = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
-  width: 12.875rem;
+  min-width: 12.875rem;
   height: 4rem;
   background: #FFFFFF;
   box-shadow: 0px 8px 16px rgba(35, 52, 77, 0.1);
