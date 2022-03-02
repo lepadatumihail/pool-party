@@ -25,7 +25,7 @@ const FirstRowLeftSide = styled.div`
 const SecondRowLeftSide = styled.div`
   display: flex;
   flex-direction: row;
-  padding-left: 14em;
+  padding-left: 19em;
 `;
 
 
@@ -55,7 +55,7 @@ const SecondRowRightSide = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  padding-left: 5em;
+  padding-left: 6em;
 `;
 
 const CenterContent = styled.div`
