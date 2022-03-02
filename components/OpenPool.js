@@ -1,4 +1,3 @@
-import { Profiler } from 'react/cjs/react.production.min'
 import styled from 'styled-components'
 
 const FlexRow = styled.div`
