@@ -5,7 +5,7 @@ import Navbar from './Navbar';
 export default function Layout({ children }) {
   const [display,setDisplay] = useState(false)
   useEffect(()=>{
-    setDisplay(children.type.name == 'PoolParty' ? true : false)
+    setDisplay(children.type.name == 'PoolParty' || children.type.name == 'Sn' ? true : false)
     console.log(children)
   },[children])
   return (
