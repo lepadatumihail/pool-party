@@ -15,16 +15,12 @@ const FooterCard = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   width: 19.875rem;
   height: 9rem;
-
   margin: 0rem 0.625rem;
-
   background: #FFFFFF;
   box-shadow: 0px 6px 10px rgba(35, 52, 77, 0.05);
   border-radius: 6px;
-
 `;
 
 const FooterHeading = styled.h3`
