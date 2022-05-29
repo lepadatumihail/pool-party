@@ -222,7 +222,7 @@ export default function Home() {
             <FirstRowRightSide style={{marginRight:'5em'}}>
               <PersonCard>
                 <CardThumbnail src='/thumbnail1.svg' alt='TN'></CardThumbnail>
-                <NamePrizeText>
+               
                   <FooterHeading>Patricia Thompson</FooterHeading>
                   <FooterText>
                    Won $50,000 
