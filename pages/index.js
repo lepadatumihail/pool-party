@@ -226,6 +226,7 @@ export default function Home() {
                   <FooterHeading>Patricia Thompson</FooterHeading>
                   <FooterText>
                    Won $50,000 
+                   Add test
                   </FooterText>
                 </NamePrizeText>
               </PersonCard>
