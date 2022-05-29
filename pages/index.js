@@ -189,6 +189,7 @@ export default function Home() {
                   <FooterHeading>Jason Keller</FooterHeading>
                   <FooterText>
                    Won $10,000 
+                   Change somthing
                   </FooterText>
                 </NamePrizeText>
               </PersonCard>
